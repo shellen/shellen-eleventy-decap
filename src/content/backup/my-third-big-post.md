@@ -1,10 +1,13 @@
 ---
-title: This is my third post
-description: Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-date: 2020-09-03
 author: Surjith S M
+date: '2020-09-03T00:00:00'
+description: Iterative approaches to corporate strategy foster collaborative thinking
+  to further the overall value proposition. Organically grow the holistic world view
+  of disruptive innovation via workplace diversity and empowerment.
+layout: post
 tags:
-  - second-tag
+- second-tag
+title: This is my third post
 ---
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
@@ -40,7 +43,7 @@ _This is italic text_
 ## Blockquotes
 
 > Blockquotes can also be nested...
->
+
 > > ...by using additional greater-than signs right next to each other...
 > >
 > > > ...or with spaces between arrows.

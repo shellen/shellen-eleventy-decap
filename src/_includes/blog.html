@@ -4,9 +4,11 @@ layout: default
 ---
 
 <div class="container max-w-3xl mt-6 px-6">
-
-    <h1 class="font-bold text-5xl">{{title}}</h1>
-
+  <article>
+    <h1>{{ title }}</h1>
+    <time datetime="{{ page.date | dateToRfc3339 }}"
+      >{{ page.date | readableDate }}</time
+    >
     {{ content | safe }}
-
+  </article>
 </div>

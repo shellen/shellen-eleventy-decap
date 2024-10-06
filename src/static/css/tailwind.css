@@ -18,3 +18,11 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+.blog-post {
+  @apply prose lg:prose-xl max-w-3xl mx-auto;
+}
+
+.blog-post h1, h2, h3, h4, h5, h6 {
+  @apply text-left;
+}
